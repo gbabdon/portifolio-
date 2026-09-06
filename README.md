@@ -1,3 +1,4 @@
+
 # portifolio-
 # 💻 Portfólio — Gabriel Abdon
 
@@ -36,6 +37,7 @@ Tenho como objetivo conquistar espaço no universo de desenvolvimento de softwar
 ---
 
 ## 🎓 Formação
+
 
 **Engenharia de Software**
 
@@ -114,7 +116,12 @@ O protótipo completo e interativo pode ser acessado através do link abaixo:
 
 # 📸 Telas do projeto
 
+<img width="1430" height="534" alt="Captura de tela 2026-09-06 160155" src="https://github.com/user-attachments/assets/3f073f1f-d080-447b-bef2-5d267165c447" />
+
+
 ## 🏠 Página inicial
+
+<img width="1450" height="812" alt="Captura de tela 2026-09-06 155123" src="https://github.com/user-attachments/assets/2f8c16e9-4779-4143-a276-24235d4718da" />
 
 
 A página inicial apresenta Gabriel, sua área de estudo e seus principais interesses, utilizando a fotografia e uma interface inspirada em código Python.
@@ -123,12 +130,16 @@ A página inicial apresenta Gabriel, sua área de estudo e seus principais inter
 
 ## 👤 Sobre mim
 
+<img width="1450" height="772" alt="Captura de tela 2026-09-06 155141" src="https://github.com/user-attachments/assets/152bb655-ec56-4939-b3c3-47aeedaf073b" />
+
 
 Seção destinada à apresentação pessoal, trajetória, interesses e informações acadêmicas.
 
 ---
 
 ## 🛠️ Skills / Habilidades
+
+<img width="878" height="824" alt="Captura de tela 2026-09-06 155236" src="https://github.com/user-attachments/assets/3ad86f4e-c1bf-4024-a30c-0333af51d07e" />
 
 
 Apresentação das linguagens, ferramentas e habilidades que possuo ou estou desenvolvendo.
@@ -137,12 +148,16 @@ Apresentação das linguagens, ferramentas e habilidades que possuo ou estou des
 
 ## 📜 Timeline
 
+<img width="1412" height="770" alt="Captura de tela 2026-09-06 155213" src="https://github.com/user-attachments/assets/9cc899d1-ce80-4496-949c-c9aea13fd72e" />
+
 
 Timeline representando minha trajetória acadêmica e os próximos passos no desenvolvimento da minha carreira.
 
 ---
 
 ## 🚀 Projetos
+
+<img width="1460" height="674" alt="Captura de tela 2026-09-06 155320" src="https://github.com/user-attachments/assets/987f438f-1307-4a87-9020-4c7b6266b4fb" />
 
 
 Seção responsável por apresentar os projetos através de cards interativos.
@@ -152,12 +167,16 @@ Seção responsável por apresentar os projetos através de cards interativos.
 ## 📄 Página individual do projeto (em desenvolvimento)
 
 
+<img width="878" height="834" alt="Captura de tela 2026-09-06 155417" src="https://github.com/user-attachments/assets/906a4db7-1fb7-41b9-bf8b-4cb613bd4d2d" />
+
 
 Página acessada ao selecionar um projeto, contendo informações mais detalhadas sobre ele, como descrição, objetivo, tecnologias utilizadas, processo de desenvolvimento e aprendizados.
 
 ---
 
 ## 🎯 Objetivos
+
+<img width="1434" height="748" alt="Captura de tela 2026-09-06 155522" src="https://github.com/user-attachments/assets/a983e738-cc00-44ca-a6d0-c893f1465f04" />
 
 
 Seção dedicada aos meus objetivos e aos próximos passos da minha trajetória na área de tecnologia.
@@ -166,12 +185,16 @@ Seção dedicada aos meus objetivos e aos próximos passos da minha trajetória 
 
 ## 💼 Experiência
 
+<img width="1351" height="684" alt="Captura de tela 2026-09-06 155536" src="https://github.com/user-attachments/assets/d733f428-74b1-4a24-991a-b0fb45f0c00b" />
+
 
 Seção destinada à apresentação da minha experiência. Como estou no início da minha trajetória profissional, a seção apresenta esse momento como parte do meu processo de desenvolvimento.
 
 ---
 
 ## 📧 Contato
+
+<img width="1384" height="714" alt="Captura de tela 2026-09-06 155558" src="https://github.com/user-attachments/assets/c2232996-3157-4dc8-aa76-7866d422d310" />
 
 
 Seção final do portfólio contendo minhas informações de contato e links para minhas redes profissionais.
